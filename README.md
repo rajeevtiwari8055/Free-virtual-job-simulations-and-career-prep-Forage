@@ -15,6 +15,7 @@ These simulations help learners experience **real workplace scenarios** before s
 - <a href="#about">🌍 About Forage</a>
 - <a href="#mission">🎯 Mission</a>
 - <a href="#impact">📊 Platform Impact</a>
+- <a href="#what-job-simulation">🧑‍💻 What is a Job Simulation?</a>
 - <a href="#why-this-simulation">💡 Why Forage Job Simulations Are Valuable</a>
 - <a href="#simulation-work">🧠 How Forage Job Simulations Work</a>
 - <a href="#forage-learning">📚 Forage Learning Resources</a>
@@ -50,6 +51,17 @@ Your **skills, grit, and drive** should be recognized and rewarded — regardles
 - 🏢 **300+ job simulations**
 - 🤝 **125+ global employers**
 - 👨‍🎓 **5M+ students registered worldwide**
+
+---
+
+## <span id="what-job-simulation">🧑‍💻 What is a Job Simulation ?</span>
+
+`Forage is a risk-free way to experience work on the job with leading companies. Practice your skills with example tasks and build your confidence to ace your applications.`
+
+- *In just a number of hours, complete a series tasks guided by pre-recorded videos and example answers from teams at leading companies.*
+- *Earn a certificate and add it to your resume and LinkedIn as an extra curricular activity.*
+- *Stand out in applications. Confidently answer interview questions and explain why you're a good fit.*
+- *No live sessions, all self-paced, and no applications or experience required!*
 
 ---
 
@@ -135,7 +147,7 @@ You can keep adding new simulations here as you complete them.
 | 8 | Controllers | Goldman Sachs | [View Program](https://www.theforage.com/simulations/bcg/gen-ai-anlo) |
 | 9 | Cybersecurity | mastercard | [View Program](https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye) |
 | 10 | Branding & Design | Forage | [View Program](https://www.theforage.com/simulations/forage/sponsored-content-branding-design-3w76) |
-| 11 | Technology | Deloitte | [View Program](https://www.theforage.com/simulations/deloitte-au/technology-fz0w) |
+| 11 | Technology Job Simulation | Deloitte | [View Program](https://www.theforage.com/simulations/deloitte-au/technology-fz0w) |
 | 12 | IT Architecture | BCG | [View Program](https://www.theforage.com/simulations/bcg/it-architect-wjf1) |
 | 13 | Deloitte Australia Cyber Job Simulation | Deloitte | [View Program](https://www.theforage.com/simulations/deloitte-au/cyber-c1e3) |
 | 14 | GenAI for Proposal Generation | EAB | [View Program](https://www.theforage.com/simulations/eab/gen-ai-for-proposal-generation-u7cu) |
@@ -161,6 +173,19 @@ You can keep adding new simulations here as you complete them.
 | 34 | Data Science | BCG | [View Program](https://www.theforage.com/simulations/bcg/data-science-ccdz) |
 | 35 | Data Science & Analytics | Lloyds Banking Group | [View Program](https://www.theforage.com/simulations/lloyds-banking-group/data-science-fpey) |
 | 36 | Data Science | British Airways | [View Program](https://www.theforage.com/simulations/british-airways/data-science-yqoz) |
+| 37 | Client Engagement | Bloomberg | [View Program](https://www.theforage.com/simulations/bloomberg/client-engagement-a6hi) |
+| 38 | Build Your Brand | BCLP | [View Program](https://www.theforage.com/simulations/bclp/personal-brand-2zq1) |
+| 39 | Strategy Consulting | Accenture | [View Program](https://www.theforage.com/simulations/accenture-au/strategy-consulting-zhrn) |
+| 40 | Deloitte Australia Cyber Job Simulation | Deloitte | [View Program](https://www.theforage.com/simulations/deloitte-au/cyber-c1e3) |
+| 41 | Business & Commercial Banking Introduction | Lloyds Banking Group | [View Program](https://www.theforage.com/simulations/lloyds-banking-group/business-commercial-banking-introduction-b3d2) |
+| 42 | GenAI Job Simulation | BCG | [View Program](https://www.theforage.com/simulations/bcg/gen-ai-anlo) |
+| 43 | Actuarial Analyst | AIG | [View Program](https://www.theforage.com/simulations/aig/actuarial-analyst-dcil) |
+| 44 | US Time Management and Business Communication Skills | White & Case | [View Program](https://www.theforage.com/simulations/white-case/time-management-business-communication-moff) |
+| 45 | Career Explorer | Forage | [View Program](https://www.theforage.com/simulations/learning/career-explorer-bgbk) |
+| 46 | Digital Transformation Job Simulation | BCG | [View Program](https://www.theforage.com/simulations/bcg/digital-transformation-pk18) |
+| 47 | Interview Preparation: Own Your Story | BCLP | [View Program](https://www.theforage.com/simulations/bclp/interview-preparation-zg8z) |
+| 48 | Cyber Security | Clifford Chance | [View Program](https://www.theforage.com/simulations/clifford-chance/cybersecurity-sjiw) |
+| 49 | Data and Technology Transactions | Latham & Watkins | [View Program](https://www.theforage.com/simulations/latham-watkins/data-and-technology-transactions-8N) |
 
 ---
 
