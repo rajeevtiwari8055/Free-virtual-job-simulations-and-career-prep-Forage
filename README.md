@@ -71,20 +71,32 @@ Showcase your achievement on **LinkedIn, GitHub, or your portfolio**.
 
 ---
 
-# 🌐 Available Career Categories
+# 📚 Forage Learning Resources
 
-Forage offers simulations across multiple professional domains:
+Forage provides a wide range of **job simulations and career-focused learning resources** across multiple professional domains.
+
+These resources allow learners to **explore different industries, understand real job roles, and gain hands-on experience through practical simulations** designed by leading global companies.
+
+Through these learning paths, students and beginners can **develop industry-relevant skills, build confidence, and prepare for real-world professional environments**.
 
 - 📊 **Data Analytics & Data Science**
-- 🛠 **Data Engineering & Cyber Security**
+- 🛠 **Data Engineering**
+- 🔐 **Cyber Security & Security**
+- 💻 **Software Engineering**
 - 💼 **Consulting & Management**
-- 💰 **Finance, Banking, Investment & Tax**
-- ⚖ **Legal, Law & Real Estate**
+- 🏦 **Banking & Financial Services**
+- 💰 **Finance, Investment & Tax**
+- ⚖ **Law, Legal & Real Estate**
 - 📢 **Marketing & Operations**
 - ⚙ **Engineering**
-- 💻 **Software Engineering**
-- 🔐 **Security & Risk**
 - 📈 **Business & Strategy**
+
+## 📚 Additional Learning Resources
+
+- 🎓 **For Students**
+- 📘 **Short Courses**
+- 💼 **All Job Simulations**
+- 📝 **Student Blog**
 
 ---
 
@@ -100,44 +112,13 @@ You can keep adding new simulations here as you complete them.
 
 | No | Job Simulation | Company | Link |
 |----|---------------|--------|------|
-| ✅ 1 | Data Analytics Job Simulation | Accenture | `View Program` |
-| ✅ 2 | Software Engineering Job Simulation | JPMorgan Chase | `View Program` |
-| ✅ 3 | Consulting Job Simulation | Boston Consulting Group | `View Program` |
-| ✅ 4 | Cyber Security Job Simulation | Mastercard | `View Program` |
-| ✅ 5 | Data Science Job Simulation | Deloitte | `View Program` |
-
-## 🧠 Job Simulation Programs
-
-| No | Job Simulation | Company | Link |
-|----|---------------|--------|------|
 | ✅ 1 | Data Analytics Job Simulation | Accenture | [View Program](https://www.theforage.com/simulations/accenture/data-analytics) |
 | ✅ 2 | Software Engineering Job Simulation | JPMorgan Chase | [View Program](https://www.theforage.com/simulations/jpmorgan/software-engineering) |
 | ✅ 3 | Consulting Job Simulation | Boston Consulting Group | [View Program](https://www.theforage.com/simulations/bcg/consulting) |
 | ✅ 4 | Cyber Security Job Simulation | Mastercard | [View Program](https://www.theforage.com/simulations/mastercard/cybersecurity) |
 | ✅ 5 | Data Science Job Simulation | Deloitte | [View Program](https://www.theforage.com/simulations/deloitte/data-analytics) |
 
-
 ---
-
-# 📚 Forage Learning Resources
-
-Explore various learning paths and career-focused simulations available on the Forage platform:
-
-- 🎓 **For Students**
-- 📘 **Short Courses**
-- 💼 **All Job Simulations**
-- 💻 **Software Engineering Job Sims**
-- 📊 **Consulting Job Sims**
-- 🏦 **Banking & Financial Services Job Sims**
-- ⚖ **Law Job Sims**
-- 📈 **Data Job Sims**
-- 🔐 **Security Job Sims**
-- 📝 **Student Blog**
-
-These resources help learners explore different industries, understand job roles, and gain hands-on experience through practical simulations.
-
----
-
 
 # 🏆 Skills You Will Develop
 
