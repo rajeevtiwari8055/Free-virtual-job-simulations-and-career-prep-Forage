@@ -12,7 +12,25 @@ These simulations help learners experience **real workplace scenarios** before s
 
 ---
 
-# 🌍 About Forage
+## 📑 Table of Contents
+
+- <a href="#about">🌍 About Forage</a>
+- <a href="#mission">🎯 Mission</a>
+- <a href="#impact">📊 Platform Impact</a>
+- <a href="#why-this-simulation">💡 Why Forage Job Simulations Are Valuable</a>
+- <a href="#simulation-work">🧠 How Forage Job Simulations Work</a>
+- <a href="#forage-learning">📚 Forage Learning Resources</a>
+- <a href="#job-simulation">📚 Job Simulation Resources for Beginners</a>
+- <a href="#skill-develop">🏆 Skills You Will Develop</a>
+- <a href="#linkedin">💼 Adding Forage to LinkedIn</a>
+- <a href="#certification">📜 Certification Benefits</a>
+- <a href="#forage">🌉 Forage – Bridging Education & Industry</a>
+- <a href="#final-thoughts">🏁 Final Thoughts</a>
+- <a href="#connect">📬 Connect With Me</a>
+
+---
+
+## <span id="about">🌍 About Forage</span>
 
 **Forage** is on a mission to help motivated students **gain real-world skills and land great jobs**.
 
@@ -20,7 +38,7 @@ The platform connects learners with **industry-designed job simulations**, allow
 
 ---
 
-## 🎯 Mission
+## <span id="mission">🎯 Mission</span>
 
 > We want to build a world where candidates are considered **equally on their merits**.
 
@@ -28,7 +46,7 @@ Your **skills, grit, and drive** should be recognized and rewarded — regardles
 
 ---
 
-# 📊 Platform Impact
+## <span id="impact">📊 Platform Impact</span>
 
 - 📈 **3.3× more likely** to land a job after completing a job simulation
 - 🏢 **300+ job simulations**
@@ -37,7 +55,7 @@ Your **skills, grit, and drive** should be recognized and rewarded — regardles
 
 ---
 
-# 💡 Why Forage Job Simulations Are Valuable
+## <span id="why-this-simulation">💡 Why Forage Job Simulations Are Valuable</span>
 
 * ✅ **100% Free Learning** – No financial barriers  
 * ✅ **Real-World Tasks** – Work on industry-based assignments  
@@ -47,7 +65,7 @@ Your **skills, grit, and drive** should be recognized and rewarded — regardles
 
 ---
 
-# 🧠 How Forage Job Simulations Work
+## <span id="simulation-work">🧠 How Forage Job Simulations Work</span>
 
 ### 1️⃣ Register on Forage
 
@@ -71,7 +89,7 @@ Showcase your achievement on **LinkedIn, GitHub, or your portfolio**.
 
 ---
 
-# 📚 Forage Learning Resources
+## <span id="forage-learning">📚 Forage Learning Resources</span>
 
 Forage provides a wide range of **job simulations and career-focused learning resources** across multiple professional domains.
 
@@ -91,7 +109,7 @@ Through these learning paths, students and beginners can **develop industry-rele
 - ⚙ **Engineering**
 - 📈 **Business & Strategy**
 
-## 📚 Additional Learning Resources
+### 📚 Additional Learning Resources
 
 - 🎓 **For Students**
 - 📘 **Short Courses**
@@ -100,17 +118,17 @@ Through these learning paths, students and beginners can **develop industry-rele
 
 ---
 
-# 📚 Job Simulation Resources for Beginners
+## <span id="job-simulation">📚 Job Simulation Resources for Beginners</span>
 
 Below is a **structured list of job simulations** to help beginners easily explore programs.
 
 You can keep adding new simulations here as you complete them.
 
+![Forage](Forage1.png)
+
 ---
 
-## 🧠 Job Simulation Programs
-
-![Forage](Forage1.png)
+### 🧠 Job Simulation Programs
 
 | No | Job Simulation | Company | Link |
 |----|---------------|--------|------|
@@ -122,7 +140,7 @@ You can keep adding new simulations here as you complete them.
 
 ---
 
-# 🏆 Skills You Will Develop
+## <span id="skill-develop">🏆 Skills You Will Develop</span>
 
 Through job simulations, learners strengthen:
 
@@ -134,7 +152,7 @@ Through job simulations, learners strengthen:
 
 ---
 
-# 💼 Adding Forage to LinkedIn
+## <span id="linkedin">💼 Adding Forage to LinkedIn</span>
 
 Forage job simulations can be added to the **LinkedIn Experience Section** as a **Virtual Internship**.
 
@@ -157,7 +175,9 @@ Forage job simulations can be added to the **LinkedIn Experience Section** as a 
 
 ---
 
-# 📜 Certification Benefits
+## <span id="certification">📜 Certification Benefits</span>
+
+## 📜 Certification Benefits
 
 After completing a simulation, learners receive:
 
@@ -174,7 +194,7 @@ You can showcase these on:
 
 ---
 
-# 🌉 Forage – Bridging Education & Industry
+## <span id="forage">🌉 Forage – Bridging Education & Industry</span>
 
 Forage acts as a **bridge between education and career success**.
 
@@ -187,13 +207,7 @@ It allows learners to:
 
 Highly recommended for **students, beginners, and freshers preparing for professional careers**.
 
----
-
-# 🔗 Explore Forage
-
 ### 🌐 Website: https://www.theforage.com 
-
-[Start Simulation](https://www.theforage.com)
 
 - `Short Courses`
 - `Job Simulations`
@@ -202,7 +216,7 @@ Highly recommended for **students, beginners, and freshers preparing for profess
 
 ---
 
-# 🏁 Final Thoughts
+## <span id="final-thoughts">🏁 Final Thoughts</span>
 
 If you are serious about **career development, skill building, and professional growth**, **Forage job simulations** provide an excellent opportunity to **learn by doing**.
 
@@ -210,7 +224,36 @@ Start exploring simulations and **build real-world skills today**.
 
 ---
 
+## <span id="connect">📬 Connect With Me</span>
+
+<!-- Typing Animation / 🤝 Connect with me -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
+
+<div align="center">
+<!-- 💼 LinkedIn -->
+<a href="https://www.linkedin.com/in/rajeevtiwari8055"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
+<!-- 📮 Gmail -->
+<a href="mailto:rajeevtiwari8055@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35" height="35"></a>
+<!-- ✖️ X -->
+<a href="https://x.com/rajeevtiwariRT" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" width="35" height="35"></a>  
+<!-- 🆔 GitHub -->
+<a href="https://github.com/rajeevtiwari8055" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="35" height="35"></a>
+<!-- 🌐 Website -->
+<a href="https://rajeevtiwari8055.github.io/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="35" height="35"></a>
+</div>
+
+<!-- Typing Animation / 🤝 Thanks for Visiting! -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+profile!)](https://git.io/typing-svg)
+
+<!-- ⭐💫 Shower stars if you like my repos -->
+<div align="center">
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
+<a href="https://github.com/rajeevtiwari8055/rajeevtiwari8055" alt="GitHub Stars" title="Star my repositories">
+<img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repositories-15k?style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
+</a>
+</div>
+
 ![Forage](Forage.png)
 
-
+---
 
