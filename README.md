@@ -175,8 +175,6 @@ Forage job simulations can be added to the **LinkedIn Experience Section** as a 
 
 ## <span id="certification">📜 Certification Benefits</span>
 
-## 📜 Certification Benefits
-
 After completing a simulation, learners receive:
 
 - 📄 **Verified Certificate**
