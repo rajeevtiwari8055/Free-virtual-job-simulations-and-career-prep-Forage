@@ -56,7 +56,7 @@ Your **skills, grit, and drive** should be recognized and rewarded — regardles
 
 ## <span id="what-job-simulation">🧑‍💻 What is a Job Simulation ?</span>
 
-`Forage is a risk-free way to experience work on the job with leading companies. Practice your skills with example tasks and build your confidence to ace your applications.`
+***Forage is a risk-free way to experience work on the job with leading companies. Practice your skills with example tasks and build your confidence to ace your applications.***
 
 - *In just a number of hours, complete a series tasks guided by pre-recorded videos and example answers from teams at leading companies.*
 - *Earn a certificate and add it to your resume and LinkedIn as an extra curricular activity.*
