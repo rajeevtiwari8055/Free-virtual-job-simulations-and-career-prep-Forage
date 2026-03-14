@@ -1,6 +1,4 @@
-# 🚀 Forage Job Simulation Programs – Practical Learning for Beginners & Freshers
-
-`Free-virtual-job-simulations-and-career-prep-Forage`
+# 🚀 Free Virtual job Simulations and Career Prep - Forage
 
 ![Forage](Forage2.png)
 
