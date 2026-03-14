@@ -156,10 +156,10 @@ Forage job simulations can be added to the **LinkedIn Experience Section** as a 
 
 ### Include:
 
-`Job Simulation Title`
-`Company Name`
-`Tasks Completed`
-`Certificate`
+- `Job Simulation Title`
+- `Company Name`
+- `Tasks Completed`
+- `Certificate`
 
 ---
 
