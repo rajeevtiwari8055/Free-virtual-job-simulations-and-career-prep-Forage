@@ -2,13 +2,13 @@
 
 `Free-virtual-job-simulations-and-career-prep-Forage`
 
+![Forage](Forage2.png)
+
 For students, beginners, and freshers seeking **practical exposure before entering the job market**, **Forage Job Simulation Programs** offer an excellent and industry-relevant learning experience.
 
 Designed in collaboration with **leading global companies**, Forage provides learners with a **realistic understanding of professional roles** through structured, hands-on tasks.
 
 These simulations help learners experience **real workplace scenarios** before stepping into a professional role.
-
-![Forage](Forage1.png)
 
 ---
 
@@ -109,6 +109,8 @@ You can keep adding new simulations here as you complete them.
 ---
 
 ## 🧠 Job Simulation Programs
+
+![Forage](Forage1.png)
 
 | No | Job Simulation | Company | Link |
 |----|---------------|--------|------|
