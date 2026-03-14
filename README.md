@@ -150,8 +150,7 @@ Through job simulations, learners strengthen:
 
 ---
 
-## <span id="linkedin">💼 Adding Forage to LinkedIn
-<a href="https://www.linkedin.com/in/rajeevtiwari8055/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a></span>
+## <span id="linkedin">💼 Adding Forage to LinkedIn</span>
 
 Forage job simulations can be added to the **LinkedIn Experience Section** as a **Virtual Internship**.
 
