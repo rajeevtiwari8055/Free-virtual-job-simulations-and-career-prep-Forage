@@ -125,11 +125,42 @@ You can keep adding new simulations here as you complete them.
 
 | No | Job Simulation | Company | Link |
 |----|---------------|--------|------|
-| ✅ 1 | Data Analytics Job Simulation | Accenture | [View Program](https://www.theforage.com/simulations/accenture/data-analytics) |
-| ✅ 2 | Software Engineering Job Simulation | JPMorgan Chase | [View Program](https://www.theforage.com/simulations/jpmorgan/software-engineering) |
-| ✅ 3 | Consulting Job Simulation | Boston Consulting Group | [View Program](https://www.theforage.com/simulations/bcg/consulting) |
-| ✅ 4 | Cyber Security Job Simulation | Mastercard | [View Program](https://www.theforage.com/simulations/mastercard/cybersecurity) |
-| ✅ 5 | Data Science Job Simulation | Deloitte | [View Program](https://www.theforage.com/simulations/deloitte/data-analytics) |
+| ✅ 1 | Deloitte Australia - Data Analytics Job Simulation | Deloitte | [View Program](https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy) |
+| ✅ 2 | Data Visualisation: Empowering Business with Effective Insights | TATA | [View Program](https://www.theforage.com/simulations/tata/data-visualisation-p5xo) |
+| ✅ 3 | GenAI Powered Data Analytics | TATA | [View Program](https://www.theforage.com/simulations/tata/data-analytics-t3zr) |
+| ✅ 4 | Operations | Goldman Sachs | [View Program](https://www.theforage.com/simulations/goldman-sachs/operations-9vyc) |
+| ✅ 5 | Data Analytics | Quantium | [View Program](https://www.theforage.com/simulations/quantium/data-analytics-rqkb) |
+| ✅ 6 | Introduction to Data for Decision Makers | BCG | [View Program](https://www.theforage.com/simulations/bcg/data-for-decision-makers-tod0) |
+| ✅ 7 | Quantitative Research | JPMorgan Chase | [View Program](https://www.theforage.com/simulations/jpmorgan/quantitative-research-11oc) |
+| ✅ 8 | Controllers | Goldman Sachs | [View Program](https://www.theforage.com/simulations/bcg/gen-ai-anlo) |
+| ✅ 9 | Cybersecurity | mastercard | [View Program](https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye) |
+| ✅ 10 | Branding & Design | Forage | [View Program](https://www.theforage.com/simulations/forage/sponsored-content-branding-design-3w76) |
+| ✅ 11 | Technology | Deloitte | [View Program](https://www.theforage.com/simulations/deloitte-au/technology-fz0w) |
+| ✅ 12 | IT Architecture | BCG | [View Program](https://www.theforage.com/simulations/bcg/it-architect-wjf1) |
+| ✅ 13 | Deloitte Australia Cyber Job Simulation | Deloitte | [View Program](https://www.theforage.com/simulations/deloitte-au/cyber-c1e3) |
+| ✅ 14 | GenAI for Proposal Generation | EAB | [View Program](https://www.theforage.com/simulations/eab/gen-ai-for-proposal-generation-u7cu) |
+| ✅ 15 | Data Labeling | Forage | [View Program](https://www.theforage.com/simulations/forage/data-labeling-c1t0) |
+| ✅ 16 | AI in Action | Vista Equity Partners | [View Program](https://www.theforage.com/simulations/vista-equity-partners/ai-in-action-cugo) |
+| ✅ 17 | Building Your Personal Brand | Ashurst | [View Program](https://www.theforage.com/simulations/ashurst/building-personal-brand-0nci) |
+| ✅ 18 | Resume Writing with AI Support | Forage | [View Program](https://www.theforage.com/simulations/learning/resume-writing-ai-i71n) |
+| ✅ 19 | ESG | TATA | [View Program](https://www.theforage.com/simulations/tata/esg-j4vw) |
+| ✅ 20 | Resume Writing Masterclass | Forage | [View Program](https://www.theforage.com/simulations/forage-masterclass/resume-writing-masterclass-cvct) |
+| ✅ 21 | Project Manager | Siemens | [View Program](https://www.theforage.com/simulations/siemens-mobility/project-management-qydx) |
+| ✅ 22 | Project Management | CBRE | [View Program](https://www.theforage.com/simulations/cbre/project-management-x2vz) |
+| ✅ 23 | Tech Explorer | Commonwealth Bank | [View Program](https://www.theforage.com/simulations/commonwealth-bank/tech-explorer-jrnj) |
+| ✅ 24 | UX Design Introduction | Lloyds Banking Group | [View Program](https://www.theforage.com/simulations/lloyds-banking-group/ux-design-introduction-xhef) |
+| ✅ 25 | Strategic & Experience Design | BCG | [View Program](https://www.theforage.com/simulations/bcg/strategic-experience-design-pgmq) |
+| ✅ 26 | UX Design Advanced | Lloyds Banking Group | [View Program](https://www.theforage.com/simulations/lloyds-banking-group/ux-design-advanced-3ntp) |
+| ✅ 27 | Introduction to Cloud | Datacom | [View Program](https://www.theforage.com/simulations/datacom/intro-cloud-yfvk) |
+| ✅ 28 | ESG | TATA | [View Program](https://www.theforage.com/simulations/tata/esg-j4vw) |
+| ✅ 29 | Risk | Goldman Sachs | [View Program](https://www.theforage.com/simulations/goldman-sachs/risk-ljdz) |
+| ✅ 30 | EY Technology Risk | EY | [View Program](https://www.theforage.com/simulations/ey/technology-risk-ydqh) |
+| ✅ 31 | Introduction to Data Science | Commonwealth Bank | [View Program](https://www.theforage.com/simulations/commonwealth-bank/intro-data-science-sd7t) |
+| ✅ 32 | Tech Explorer | Commonwealth Bank | [View Program](https://www.theforage.com/simulations/commonwealth-bank/tech-explorer-jrnj) |
+| ✅ 33 | Markets Quantitative Analysis (MQA) | Citi | [View Program](https://www.theforage.com/simulations/citi/global-quantitative-analysis-analyst-6b4m) |
+| ✅ 34 | Data Science | BCG | [View Program](https://www.theforage.com/simulations/bcg/data-science-ccdz) |
+| ✅ 35 | Data Science & Analytics | Lloyds Banking Group | [View Program](https://www.theforage.com/simulations/lloyds-banking-group/data-science-fpey) |
+| ✅ 36 | Data Science | British Airways | [View Program](https://www.theforage.com/simulations/british-airways/data-science-yqoz) |
 
 ---
 
