@@ -66,23 +66,18 @@ Your **skills, grit, and drive** should be recognized and rewarded — regardles
 ## <span id="simulation-work">🧠 How Forage Job Simulations Work</span>
 
 ### 1️⃣ Register on Forage
-
 Create your account and share some information about yourself.
 
 ### 2️⃣ Enroll in a Job Simulation
-
 Choose a program based on your **career interest or learning goal**.
 
 ### 3️⃣ Complete Real-World Tasks
-
 Work on assignments that simulate **actual company work scenarios**.
 
 ### 4️⃣ Compare with Model Solutions
-
 Evaluate your approach using **expert-provided model answers**.
 
 ### 5️⃣ Earn a Certificate
-
 Showcase your achievement on **LinkedIn, GitHub, Resume or your portfolio**.
 
 ---
