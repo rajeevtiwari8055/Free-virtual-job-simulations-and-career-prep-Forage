@@ -83,7 +83,7 @@ Evaluate your approach using **expert-provided model answers**.
 
 ### 5️⃣ Earn a Certificate
 
-Showcase your achievement on **LinkedIn, GitHub, or your portfolio**.
+Showcase your achievement on **LinkedIn, GitHub, Resume or your portfolio**.
 
 ---
 
