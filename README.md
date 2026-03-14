@@ -140,7 +140,7 @@ You can keep adding new simulations here as you complete them.
 | 13 | Deloitte Australia Cyber Job Simulation | Deloitte | [View Program](https://www.theforage.com/simulations/deloitte-au/cyber-c1e3) |
 | 14 | GenAI for Proposal Generation | EAB | [View Program](https://www.theforage.com/simulations/eab/gen-ai-for-proposal-generation-u7cu) |
 | 15 | Data Labeling | Forage | [View Program](https://www.theforage.com/simulations/forage/data-labeling-c1t0) |
-| 16 | AI in Action | Vista Equity Partners | [View Program](https://www.theforage.com/simulations/vista-equity-partners/ai-in-action-cugo) |
+| 16 | AI in Action | Vista | [View Program](https://www.theforage.com/simulations/vista-equity-partners/ai-in-action-cugo) |
 | 17 | Building Your Personal Brand | Ashurst | [View Program](https://www.theforage.com/simulations/ashurst/building-personal-brand-0nci) |
 | 18 | Resume Writing with AI Support | Forage | [View Program](https://www.theforage.com/simulations/learning/resume-writing-ai-i71n) |
 | 19 | ESG | TATA | [View Program](https://www.theforage.com/simulations/tata/esg-j4vw) |
