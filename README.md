@@ -1,4 +1,4 @@
-# 🚀 Free Virtual job Simulations and Career Prep - Forage
+# 🚀 Forage - Free Virtual job Simulations and Career Prep
 
 ![Forage](Forage2.png)
 
