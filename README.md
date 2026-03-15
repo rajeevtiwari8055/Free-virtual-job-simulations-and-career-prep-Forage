@@ -116,10 +116,10 @@ Through these learning paths, students and beginners can **develop industry-rele
 
 ### 📚 Additional Learning Resources
 
-- 🎓 **For Students**
-- 📘 **Short Courses**
-- 💼 **All Job Simulations**
-- 📝 **Student Blog**
+- 🎓 `For Students`
+- 📘 `Short Courses`
+- 💼 `All Job Simulations`
+- 📝 `Student Blog`
 
 ---
 
@@ -216,9 +216,9 @@ Forage job simulations can be added to the **LinkedIn Experience Section** as a 
 
 ### This helps showcase:
 
-- ✔ **Real-world work experience**
-- ✔ **Practical problem solving**
-- ✔ **Job-ready skills**
+- `✔ Real-world work experience`
+- `✔ Practical problem solving`
+- `✔ Job-ready skills`
 
 > Recruiters often value **hands-on experience over theory alone**.
 
@@ -228,9 +228,9 @@ Forage job simulations can be added to the **LinkedIn Experience Section** as a 
 
 After completing a simulation, learners receive:
 
-- 📄 **Verified Certificate**
-- 📊 **Task-based learning outcomes**
-- 🔗 **Sharable program link**
+- `📄 Verified Certificate`
+- `📊 **Task-based learning outcomes`
+- `🔗 **Sharable program link`
 
 You can showcase these on:
 
