@@ -8,7 +8,7 @@ Designed in collaboration with **leading global companies**, Forage provides lea
 
 These simulations help learners experience **real workplace scenarios** before stepping into a professional role.
 
-`Free guided project by Coursera` ***https://www.coursera.org/search?query=free***
+`Free guided project with certification by Coursera` ***https://www.coursera.org/search?query=free***
 
 ---
 
